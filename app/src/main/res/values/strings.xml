@@ -56,6 +56,32 @@
     <string name="btnAdd">Add</string>
     <string name="edtEnterMood">Enter Your Mood</string>
     <string name="btnUpdate">Update</string>
+    
+    
+    //diary
+    <string name="save_btn">save</string>
+    <string name="title">Title</string>
+    <string name="content">Write more here...</string>
+    <string name="addPic">Attach an image..</string>
+    <string name="calendar_btn">calendar</string>
+    <string name="close_btn">close</string>
+    <string name="image_btn">image</string>
+    <string name="date">Date</string>
+    <string name="back_btn">back</string>
+    <string name="more_btn">more</string>
+    <string name="update_btn">Update</string>
+    <string name="scroll">scroll</string>
+    <string name="diaryName">Diary</string>
+    <string name="content1">Today was a little better. I texted Sarah last night asking if she wanted to have lunch with me today, just the two of us, and she said sure.</string>
+    <string name="date1">11/08/2022</string>
+    <string name="content2">Sorry I didn’t get to write last night! It was such a busy day, and I was too tired to write anything...</string>
+    <string name="date2">25/09/2022</string>
+    <string name="topic1">Mother\'s birthday</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="speaker">speaker</string>
+    <string name="new_btn">new_btn</string>
+
 
 </resources>
 
