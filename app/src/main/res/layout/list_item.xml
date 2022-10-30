@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding = "5dp" >
+
+    <TextView
+        android:id="@+id/tViewGoal"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:background="@color/ret"
+        android:paddingStart="15dp"
+        android:paddingTop="10dp"
+
+        android:text="Goal"
+        android:textColor="@color/black"
+        android:textSize="26sp" />
+
+    <TextView
+        android:id="@+id/tViewEndDate"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:background="@color/ret"
+        android:paddingStart="15dp"
+        android:paddingTop="10dp"
+        android:text="EndDate"
+        android:textColor="@color/black"
+        android:textSize="26sp" />
+
+
+</LinearLayout>
